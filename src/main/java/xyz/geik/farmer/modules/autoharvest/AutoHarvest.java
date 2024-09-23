@@ -114,7 +114,7 @@ public class AutoHarvest extends FarmerModule {
     public void setupFile() {
         configFile = ConfigManager.create(ConfigFile.class, (it) -> {
             it.withConfigurer(new YamlBukkitConfigurer());
-            it.withBindFile(new File(Main.getInstance().getDataFolder(), String.format("/modules/%s/config.yml", getName())));
+            it.withBindFile(new File(Main.getInstance().getDataFolder(), String.format("/modules/%s/config.yml", getName().toLowerCase())));
             it.saveDefaults();
             it.load(true);
         });
