@@ -33,8 +33,8 @@
         </dependency>
         <!-- Farmer -->
         <dependency>
-            <groupId>xyz.geik.farmer</groupId>
-            <artifactId>Farmer</artifactId>
+            <groupId>com.github.poyrazinan</groupId>
+            <artifactId>Farmer-v6</artifactId>
             <version>v6-b107</version>
             <scope>provided</scope>
         </dependency>
