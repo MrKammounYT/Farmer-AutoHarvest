@@ -8,8 +8,8 @@ moduleGui:
     name: "&eAuto Ernter"
     lore:
       - '&7Mit diesem Modul brechen Landwirte automatisch'
-      - '&7Gegenstände und pflanzen diese neu an.'
+      - '&7Gegenstund pflanzen diese neu an.'
       - ''
       - '&7Status: &6{status}'
       - ''
-      - '&aZum Ändern klicken.'
+      - '&aZum klicken.'

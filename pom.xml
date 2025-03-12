@@ -74,6 +74,7 @@
                             <shadedPattern>xyz.geik.farmer.shades.jetbrains</shadedPattern>
                         </relocation>
                     </relocations>
+                    <outputDirectory>C:\Users\ahmed\OneDrive\Desktop\MC SERVERS\server 1.21\plugins\Farmer\modules</outputDirectory>
                 </configuration>
                 <executions>
                     <execution>
